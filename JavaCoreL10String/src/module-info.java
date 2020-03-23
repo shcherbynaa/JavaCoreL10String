@@ -1,0 +1,2 @@
+module JavaCoreL10String {
+}
